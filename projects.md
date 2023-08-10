@@ -76,10 +76,10 @@ After allowing VIA to connect to the keyboard we can use it to alter the OLED di
 
 In custom features you can configure the settings of the Satasfaction75's OLED screen. "Default OLED Mode" determines which mode will be displayed when the keyboard is turned on. Current OLED Mode determines which mode is currently displayed. There are three modes to choose from:
 
-| OLED Mode       | Display           | Description
+| OLED Mode    | Display           | Description
 | ------------- |:-------------:| :---------: | 
-|    Default  | ![default](https://cdn.discordapp.com/attachments/552500104678998016/1123737872160260116/image.png) | Displays BongoCat, clock and WPM (words per minute) tracker
-| Time      | ![time](https://cdn.discordapp.com/attachments/552500104678998016/1123737748164071464/image.png)      | Displays a solitary centered BongoCat
+| Default | ![default](https://cdn.discordapp.com/attachments/552500104678998016/1123737872160260116/image.png) | Displays BongoCat, clock and WPM (words per minute) tracker
+| Time | ![time](https://cdn.discordapp.com/attachments/552500104678998016/1123737748164071464/image.png)      | Displays a solitary centered BongoCat
 | Off | ![off](https://cdn.discordapp.com/attachments/552500104678998016/1123737805357592637/image.png)      |Displays default Satasfaction75 OLED hud
 
 Changes to the settings will be applied automatically. Once you've changes settings as desired, feel free to close the browser.  
