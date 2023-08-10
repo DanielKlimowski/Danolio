@@ -86,6 +86,7 @@ Changes to the settings will be applied automatically. Once you've changes setti
 
 ## Tah-dah!
 You've now enabled BongoCat on your Satasfaction75! Enjoy! :3
+
 ![image](https://cdn.discordapp.com/attachments/552500104678998016/1122238367854231642/IMG_2076__1__AdobeExpress_AdobeExpress_AdobeExpress.gif)
 
 
