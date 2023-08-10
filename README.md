@@ -1,6 +1,11 @@
-# Danolio
-Writing portfolio for Daniel Klimowski
+<h1>Tags</h1>
 
-![smart daniel](https://cdn.discordapp.com/attachments/552500104678998016/1116142368790413312/IMG_1538.jpg)
-## **_Wow!_** Look at this intelligent looking specimen! I bet he's a fantastic writer (look at those glasses: I bet he needs them to see and totally isn't borrowing his girlfriend's glasses for a staged photo)! Also, I bet he is quite capible of learning and synthesising technical information in a written form so others can understand how things work! 
-## [here is some of my work](https://docs.google.com/document/d/1y4O0LvtCbsk2u_1vM8VoYdOfvnV3x_HC48LxOuUnD_Y/edit?usp=sharing)
+<h2>Example 1</h2>
+<a href="#" class="tag">Front-end development</a>
+
+<h2>Example 2</h2>
+<ul class="tags">
+  <li><a href="#" class="tag">HTML</a></li>
+  <li><a href="#" class="tag">CSS</a></li>
+  <li><a href="#" class="tag">JavaScript</a></li>
+</ul>
