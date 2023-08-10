@@ -1,6 +1,4 @@
-layout: page
-title: "projects"
-permalink: /projects
+
 # How to install Bongo Cat mod on the Satisfaction75 r2 
 
 ![bongocat](https://upload.wikimedia.org/wikipedia/commons/9/97/Bongo_Cat_Redraw.png#center)
