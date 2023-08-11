@@ -1,6 +1,6 @@
 layout: page
 title: "bongocat"
-permalink: https://danielklimowski.github.io/projects/bongocat
+permalink: /projects/bongocat
 
 # How to install Bongo Cat mod on the Satisfaction75 r2 
 
