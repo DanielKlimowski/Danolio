@@ -1,5 +1,5 @@
 layout: page
 title: "bongocat"
-permalink: /projects/bongocat
+permalink: /something
 
 # fjiosdfj
