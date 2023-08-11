@@ -41,7 +41,7 @@ Ensure that your keyboard is unplugged ![unplugged](https://cdn.discordapp.com/a
 
 If your keyboard is assembled, you will need to remove the backplate to gain access to the PCB. There are eight (8) screws which must be unscrewed to remove the backplate![screwlocations](https://cdn.discordapp.com/attachments/552500104678998016/1122266891201822800/DWADASDASD.png)
 
-Once you have access to the PCB, position the boot switch to be in position "1" ![pcbunpluggedpos1](https://cdn.discordapp.com/attachments/552500104678998016/1122267486864281640/switch1unplugged.png)
+Once you have access to the PCB, ensure the boot switch is in position "1" ![pcbunpluggedpos1](https://cdn.discordapp.com/attachments/552500104678998016/1122267486864281640/switch1unplugged.png)
 
 Plug in the keyboard ![exposedpcbpluggedin](https://cdn.discordapp.com/attachments/552500104678998016/1122263547586564156/IMG_2088.jpg)
 
