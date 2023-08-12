@@ -1,5 +1,3 @@
 layout: page
-title: "bongocat"
+title: "bongocat.md"
 permalink: /projects/bongocat
-
-# fjiosdfj
