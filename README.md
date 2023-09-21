@@ -1,7 +1,7 @@
 # Daniel Klimowski
 ## Professional Writer
 
-![daniel](![image](https://github.com/DanielKlimowski/danielklimowski.github.io/assets/112975394/fb290902-fc36-4b5d-a160-ddc7799d1f95)
+![daniel](![image](https://cdn.discordapp.com/attachments/552500104678998016/1154467963429195796/small_dan.jpg)
 )
 
 ## About
