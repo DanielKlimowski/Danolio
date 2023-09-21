@@ -1,7 +1,7 @@
 # Daniel Klimowski
 ## Professional Writer
 
-![daniel](![image](https://cdn.discordapp.com/attachments/552500104678998016/1154467963429195796/small_dan.jpg)
+![daniel](https://cdn.discordapp.com/attachments/552500104678998016/1154467963429195796/small_dan.jpg)
 )
 
 ## About
