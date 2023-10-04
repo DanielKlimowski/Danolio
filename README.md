@@ -1,4 +1,5 @@
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
@@ -189,7 +190,6 @@
 
                 
             
-            </ul>
     
         
                 
@@ -199,11 +199,6 @@
         <div class="subheading mb-3 skills-heading">Tools</div>
             <ul>
             
-                
-                  <li class="list-inline-item">
-                    <i class="devicons devicons-terminal_badge"></i>
-                    Adobe Experience Manager (AEM)
-                  </li>
                 
             
                 
@@ -339,7 +334,6 @@
    
 
 
-    <span style="color: #999999; font-size: 60%;">Nifty <a href="https://codepen.io/wbeeftink/pen/dIaDH">tech tag lists</a> from <a class="pen-owner-link" href="https://codepen.io/wbeeftink">Wouter Beeftink</a> </span>
     
   </div>
   
