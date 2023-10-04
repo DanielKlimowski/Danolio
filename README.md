@@ -320,7 +320,7 @@
                   <div>English</div>
                 </div>
                 <div class="resume-date text-md-right">
-                  <span class="text-primary">2016 - 20</span>
+                  <span class="text-primary">2016 - 2021</span>
                 </div>
               </div>
               
