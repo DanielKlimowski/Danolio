@@ -57,6 +57,16 @@
       
       
           <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="/#open">Open Source</a>
+          </li>
+      
+      
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="/#publications">Presentations</a>
+          </li>
+      
+      
+          <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="/#experience">Experience</a>
           </li>
       
@@ -266,29 +276,36 @@
   </div>
 </section>
 
-               <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="projects">
-  <div class="my-auto" id="projects-content">
-    <h2 class="mb-5">Documentation projects</h2>
-    <p><!-- raw HTML omitted -->
-</p>
-    
-    
-
-
-    
       
-<h3 class="mb-3"><a href="https://danielklimowski.github.io/projects/">Satasfaction 75 Bongocat mod Documentation</a></h3>
-<div class="resume-item d-flex flex-column flex-md-row mb-3">
-
-  <div class="resume-content " style="width:200px;!important;">
+   
+   
+       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
+  <div class="my-auto" id="experience-content">
+    <h2 class="mb-5">Experience</h2>
     
-      <img src="https://camo.githubusercontent.com/133877ef810f94c43d61cdc62b2089686a1afff3a542087bdace339c2770d8d8/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39372f426f6e676f5f4361745f5265647261772e706e672363656e746572" style="max-height:150px;max-width:150px;"/>
+        <div class="resume-item d-flex flex-column flex-md-row mb-5">
+          <div class="resume-content mr-auto">
+            <h3 class="mb-0">Lead Tutor</h3>
+            <div class="subheading mb-3">Paper.co</div>
+            <p>Collaborate with, and support the AWS APJ (Asia Pacific &amp; Japan) Solutions Engineering team, for creating and maintaining customer-facing technical documentation for customisable solutions.</p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">Oct 2021 - May 2023</span>
+          </div>
+        </div>
     
-  </div>
-  <div class="resume-date">
-    <p>A how to guide for installing the Bongo Cat Mod for the Cannonkeys Satasfaction75 keyboard<p>
-    <p class><a href="https://danielklimowski.github.io/projects">Read more..</a></p>
-  
+        <div class="resume-item d-flex flex-column flex-md-row mb-5">
+          <div class="resume-content mr-auto">
+            <h3 class="mb-0">Vice President</h3>
+            <div class="subheading mb-3">YU Write (York University Creative Writing Club)</div>
+            <p>Help the documentation community by advocating for a docs-like-code approach and offering them the skills and know-how to make it happen. Managing open-source documentation program as part of Google Season of Docs.</p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">Nov 2020 - Apr 2022</span>
+          </div>
+        </div>
+    
+       </div>
 
 </section>
 
@@ -318,6 +335,7 @@
 
 
     
+  </div>
   
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.bundle.min.js"></script>
@@ -337,5 +355,6 @@
   
 
   
-
+</body>
+</html>
 
