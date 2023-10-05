@@ -1,6 +1,6 @@
 layout: post
 title: "projects.mc"
-permalink: /projects
+permalink: /projects/
 
 # How to install Bongo Cat mod on the Satisfaction75 r2 
 
