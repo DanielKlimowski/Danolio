@@ -10,7 +10,8 @@
 " />
   <meta name="description" content="I'm a dedicated professional writer with over 6 years of writing experience, including 2 years of remote instructional work and mentoring. My areas of expertise include writing and editing academic essays, instruction manuals, and support articles. My educational background includes a B.A. in English with Honours, and I'm proficient in HTML, XML, and content management systems.
 ">
-  <meta property="og:description" content="Professional writer with over 6 years of writing experience, including 2 years of remote instructional work and mentoring. My areas of expertise include writing and editing academic essays, instruction manuals, and support articles. My educational background includes a B.A. in English with Honours.
+  <meta property="og:description" content="Professional writer with over 6 years of writing experience, including 2 years of remote instructional work and mentoring. My areas of expertise include writing and editing academic essays, instruction manuals, and support articles. My educational background includes a B.A. in English with Honours, and I'm proficient in HTML, XML, and content management systems.
+" />
   <meta name="author" content="Daniel Klimowski">
   
   <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
@@ -267,7 +268,7 @@
 
                <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="projects">
   <div class="my-auto" id="projects-content">
-    <h2 class="mb-5">Documentation projects</a></h2>
+    <h2 class="mb-5">Documentation projects</h2>
     <p><!-- raw HTML omitted -->
 </p>
     
@@ -286,15 +287,8 @@
   </div>
   <div class="resume-date">
     <p>A how to guide for installing the Bongo Cat Mod for the Cannonkeys Satasfaction75 keyboard<p>
-    <p class><a href="https://danielklimowski.github.io/projects/">Read more..</a></p>
-  </div>
-</div>
-    
-</ul>
-
+    <p class><a href="https://danielklimowski.github.io/projects">Read more..</a></p>
   
-</section>
-
 
 </section>
 
@@ -324,7 +318,6 @@
 
 
     
-  </div>
   
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/js/bootstrap.bundle.min.js"></script>
@@ -344,6 +337,5 @@
   
 
   
-</body>
-</html>
+
 
