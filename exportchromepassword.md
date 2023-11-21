@@ -35,7 +35,7 @@ If you're using a windows device you will be prompted to enter your PIN before y
 ## Step 7: Save the file containing your passwords
 ![image](https://github.com/DanielKlimowski/danielklimowski.github.io/assets/112975394/b4f587dd-4271-41bc-8e7f-0c5109b7399f)
 
-Pick a location to save your passwords. The saved file will be an Excel sheet which contains all of your passwords saved in Google Chrome. This "Chrome Passowrds" file can now be imported into any compatible browser, allowing you fast access to all of your saved password data. 
-
+Pick a location to save your passwords. The saved file will be an Excel sheet which contains all of your passwords saved in Google Chrome. 
 ![image](https://github.com/DanielKlimowski/danielklimowski.github.io/assets/112975394/ff14547b-5f3c-4fb4-a5f7-d2d57cd2faef)
 
+This "Chrome Passowrds" file can now be imported into any compatible browser, allowing you fast access to all of your saved password data. 
