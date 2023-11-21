@@ -9,7 +9,6 @@ If you're looking to make a switch from using Google Chrome as your primary brow
 
 
 ## Step 1: Open google chrome
-![image] 
 
 ## Step 2: Click the three dots in the top right corner of your screen
 
