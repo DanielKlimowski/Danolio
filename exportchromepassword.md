@@ -3,6 +3,8 @@
 ## Getting Started
 If you're looking to make a switch from using Google Chrome as your primary browser, there is a way to bring all your saved passwords with you. By exporting the passwords saved in your Google account, you can bring all your old passwords with you when switching to a new browser. The purpose of this guide is to show you how to export your passwords saved in Google Chrome. 
 
+### If you want to watch a video version of this guide I've made one [here](https://www.youtube.com/watch?v=QkSnMsUmcH0)
+
 ### You will need:
 * A device which can run Google chrome
 * A Google Account with at least one saved password
