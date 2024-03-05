@@ -38,7 +38,7 @@ The modded firmware can be downloaded [here](https://github.com/pedker/OLED-Bong
 ## Step 3: Flashing the keyboard
 Ensure that your keyboard is unplugged ![unplugged](https://danielklimowski.github.io/bongocatassets/7.jpg)
 
-If your keyboard is assembled, you will need to remove the backplate to gain access to the PCB. There are eight (8) screws which must be unscrewed to remove the backplate![screwlocations](https://danielklimowski.github.io/bongocatassets/8.png)
+If your keyboard is assembled, you will need to remove the backplate to gain access to the PCB. There are eight (8) screws which must be unscrewed to remove the backplate ![screwlocations](https://danielklimowski.github.io/bongocatassets/8.png)
 
 Once you have access to the PCB, ensure the boot switch is in position "1" ![pcbunpluggedpos1](https://danielklimowski.github.io/bongocatassets/9.png)
 
