@@ -46,11 +46,11 @@ Plug in the keyboard ![exposedpcbpluggedin](https://danielklimowski.github.io/bo
 
 Open QMK toolbox. 
 
-In the rightmost dropdown menu ensure that "ATmega32U4" is selected. Then click on the open button to select a firmware file ![openfile](https://danielklimowski.github.io/bongocatassets/10.jpg)
+In the rightmost dropdown menu ensure that "ATmega32U4" is selected. Then click on the "Open" button to select a firmware file ![openfile](https://danielklimowski.github.io/bongocatassets/10.jpg)
 
 Select the.bin file which contains BongoCat mod then select "Open" ![bongocatfile](https://danielklimowski.github.io/bongocatassets/11.jpg) 
 
-Once you've selected "cannonkeys_satisfaction75_rev1_Pedker.bin" click the "flash" button ![clickflash](https://danielklimowski.github.io/bongocatassets/12.jpg)
+Once you've selected "cannonkeys_satisfaction75_rev1_Pedker.bin" click the "Flash" button ![clickflash](https://danielklimowski.github.io/bongocatassets/12.jpg)
 
 After flashing QMK will display the message "Flash complete" ![flashingdone](https://danielklimowski.github.io/bongocatassets/13.JPG)
 
